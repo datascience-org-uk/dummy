@@ -41,7 +41,7 @@ pyasn1==0.4.6
 pyasn1-modules==0.2.6
 pyodbc==4.0.26
 pyparsing==2.4.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-dateutil==2.8.0
 python-slugify==3.0.2
 pytz==2019.1
