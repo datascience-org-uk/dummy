@@ -36,7 +36,7 @@ opencv-python==4.1.0.25
 pandas==0.24.2
 Pillow==6.0.0
 plotly==4.0.0
-protobuf==3.9.1
+protobuf==3.18.3
 pyasn1==0.4.6
 pyasn1-modules==0.2.6
 pyodbc==4.0.26
